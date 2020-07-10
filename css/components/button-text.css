@@ -1,0 +1,79 @@
+.btn-text{
+	background-color: white;
+	padding: 4px 8px;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-left: 12px;
+	display: inline-block;
+	font-size: 18px;
+	color: rgb(0,0,0,0.12);
+
+}
+
+.btn-text:hover{
+	color: #EE585B;
+	text-decoration: none;
+	transition: .3s ease;
+}
+
+.btn-text1{
+	color: black;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: white;
+	border-radius: 25px;
+	padding: 8px 15px;
+	margin: 5px;
+	transition: .3s ease;
+	margin-bottom: 60px; 
+}
+
+.btn-text1:hover{
+	border-radius: 4px;
+}
+
+.main-button{
+	padding-left: 200px !important;
+	padding-right: 200px !important;
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+	background-color: white !important;
+	color: rgb(150,150,150) !important;
+}
+
+.button-search{
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	margin-top: 15px;
+}
+
+.button-search:hover{
+	background-color: rgb(230,230,230) !important;
+	color: black !important;
+}
+
+.button{
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	text-align: center;
+	margin-top: 15px;
+}
+
+.button-checkmore:hover{
+	background-color: #FFFFFF !important;
+	color: black !important;
+}
+
+.btn-carousel{
+	font-size: 60px;
+	text-decoration: none;
+	color: white;
+}
+
+.btn-carousel:hover{
+	font-size: 60px;
+	text-decoration: none;
+	color: rgb(210,210,210);
+	transition: .3s ease;
+}
